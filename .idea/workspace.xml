@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="de843e27-9139-43a6-b376-8665e9d58109" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/media/cat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rango/tests_chapter4.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/static/images/rango.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/templates/rango/about.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/templates/rango/index.html" afterDir="false" />
@@ -33,7 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/rango" />
     <property name="settings.editor.selected.configurable" value="configurable.group.project" />
   </component>
   <component name="RunManager">
@@ -69,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1644254255997</updated>
-      <workItem from="1644254258399" duration="629000" />
+      <workItem from="1644254258399" duration="932000" />
     </task>
     <servers />
   </component>
