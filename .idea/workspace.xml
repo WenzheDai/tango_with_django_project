@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de843e27-9139-43a6-b376-8665e9d58109" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/rango/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rango/tests_chapter7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/rango/add_category.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/rango/add_page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rango/templatetags/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rango/templatetags/rango_template_tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rango/tests_chapter8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/rango/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/rango/categories.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/populate_rango.py" beforeDir="false" afterPath="$PROJECT_DIR$/populate_rango.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rango/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/rango/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/rango/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rango/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/rango/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/rango/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/rango/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/rango/add_category.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/rango/add_category.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/rango/add_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/rango/add_page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/rango/category.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/rango/category.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/rango/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/rango/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,7 +99,7 @@
       <workItem from="1644363283124" duration="5125000" />
       <workItem from="1644443442097" duration="1320000" />
       <workItem from="1644490333301" duration="6066000" />
-      <workItem from="1644882156964" duration="339000" />
+      <workItem from="1644882156964" duration="3825000" />
     </task>
     <servers />
   </component>
